@@ -27,7 +27,7 @@ Due to the use of **Sumit.ai's unique credentials**, which were exclusively prov
 
 To see **BARVOX** in action, watch the demo video below:
 
-[![Watch the Demo](https://img.youtube.com/vi/your_demo_video_id/0.jpg)](https://www.youtube.com/watch?v=your_demo_video_id)
+[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://github.com/IZ1KG/BarVox/blob/main/DEMO%20-%20Made%20with%20Clipchamp.mp4)
 
 The demo includes:
 - **Three authentic sample recordings** of real vocalizations provided by Bar Levi, a semi-verbal individual who inspired the project.
@@ -40,9 +40,7 @@ These recordings highlight the real-world impact of **BARVOX** in bridging commu
 ## Code Example
 
 Below is a screenshot of the core logic behind **BARVOX's** real-time translation system. It highlights how the system processes user-specific sounds and matches them to the personalized dictionary.
-
-https://github.com/IZ1KG/BarVox/blob/main/Screenshot%202025-01-19%20212555.png
-
+![Code Screenshot](https://github.com/IZ1KG/BarVox/blob/main/Screenshot%202025-01-19%20212555.png)
 
 ---
 
