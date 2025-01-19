@@ -41,7 +41,7 @@ These recordings highlight the real-world impact of **BARVOX** in bridging commu
 
 Below is a screenshot of the core logic behind **BARVOX's** real-time translation system. It highlights how the system processes user-specific sounds and matches them to the personalized dictionary.
 
-![Code Screenshot](path/to/code-screenshot.png)
+https://github.com/IZ1KG/BarVox/blob/main/Screenshot%202025-01-19%20212555.png
 
 
 ---
