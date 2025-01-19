@@ -25,7 +25,7 @@ Due to the use of **Sumit.ai's unique credentials**, which were exclusively prov
 
 ## Demo Video
 
-To see **BARVOX** in action, watch the demo video below:
+To see **BARVOX** in action, watch the demo video:</br>
 Unfortunately, GitHub does not support video streaming, so you will need to download the video to view it. The video is small (1.56 MB) and can be downloaded from the link:
 ![Download Demo](https://github.com/IZ1KG/BarVox/blob/main/BarVox_Demo.mp4)
 
