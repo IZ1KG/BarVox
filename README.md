@@ -26,8 +26,8 @@ Due to the use of **Sumit.ai's unique credentials**, which were exclusively prov
 ## Demo Video
 
 To see **BARVOX** in action, watch the demo video below:
-
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://github.com/IZ1KG/BarVox/blob/main/DEMO%20-%20Made%20with%20Clipchamp.mp4)
+Unfortunately, GitHub does not support video streaming, so you will need to download the video to view it. The video is small (1.56 MB) and can be downloaded from the link below:
+![Download the Demo video](https://github.com/IZ1KG/BarVox/blob/main/DEMO%20-%20Made%20with%20Clipchamp.mp4)
 
 The demo includes:
 - **Three authentic sample recordings** of real vocalizations provided by Bar Levi, a semi-verbal individual who inspired the project.
