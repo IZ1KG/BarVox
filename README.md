@@ -26,9 +26,7 @@ Due to the use of **Sumit.ai's unique credentials**, which were exclusively prov
 ## Demo Video
 
 To see **BARVOX** in action, watch the demo video:</br>
-Unfortunately, GitHub does not support video streaming, so you will need to download the video to view it. The video is small (1.56 MB) and can be downloaded from the link:
-![Download Demo](https://github.com/IZ1KG/BarVox/blob/main/BarVox_Demo.mp4)
-
+Unfortunately, GitHub does not support video streaming so you can see it here in the link: https://did.li/nzFIw to my drive.
 The demo includes:
 - **Three authentic sample recordings** of real vocalizations provided by Bar Levi, a semi-verbal individual who inspired the project.
 - Real-time Hebrew translations of these unique sounds into natural language words or phrases, showcasing the personalized dictionary and the system’s capabilities.
